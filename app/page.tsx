@@ -4,7 +4,7 @@ import { Brand } from "@/components/Brand"
 import CookiesBanner from "@/components/Cookies"
 
 const FLEET = [
-  { id: "eco", name: "Económico", desc: "Compacto ideal para ciudad.", img: "https://images.unsplash.com/photo-1549921296-3a6b3ac4e62c?q=80&w=1600&auto=format&fit=crop", rate: 28 },
+  { id: "eco", name: "Económic", desc: "Compacto ideal para ciudad.", img: "https://images.unsplash.com/photo-1549921296-3a6b3ac4e62c?q=80&w=1600&auto=format&fit=crop", rate: 28 },
   { id: "std", name: "Estándar", desc: "Espacio y comodidad.", img: "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1600&auto=format&fit=crop", rate: 42 },
   { id: "suv", name: "SUV / Familiar", desc: "Perfecto para escapadas.", img: "https://images.unsplash.com/photo-1549923746-c502d488b3ea?q=80&w=1600&auto=format&fit=crop", rate: 58 },
   { id: "lux", name: "Premium", desc: "Confort y estilo premium.", img: "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?q=80&w=1600&auto=format&fit=crop", rate: 85 },
